@@ -1,5 +1,5 @@
 # LMIRCam_ABAur
-Data Reduction pipeline for LMIRCam AB Aur data
+Data Reduction pipeline for LBT/LMIRCam.  Developed to reduce AB Aur data (Betti et al., 2022a)
 
 written by Sarah Betti
 
